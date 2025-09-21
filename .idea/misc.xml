@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/movie/pom.xml" />
+        <option value="$PROJECT_DIR$/movie-procedural/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/02-movie-composed-method/pom.xml" />
+        <option value="$PROJECT_DIR$/03-movie-srp/pom.xml" />
+        <option value="$PROJECT_DIR$/04-dip-1/pom.xml" />
+        <option value="$PROJECT_DIR$/05-dip-2/pom.xml" />
+        <option value="$PROJECT_DIR$/06-ocp-1/pom.xml" />
+        <option value="$PROJECT_DIR$/07-cop-2/pom.xml" />
+        <option value="$PROJECT_DIR$/08-lsp/pom.xml" />
+        <option value="$PROJECT_DIR$/09-movie-polymorphism/pom.xml" />
+        <option value="$PROJECT_DIR$/movie/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-02-01/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-02-02/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-03-02/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-04-01/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-04-02/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-04-03/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-05-01/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-05-02/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-05-03/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-05-04/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-05-05/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-06-01/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-06-02/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-07-01/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-07-04/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-07-05/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-08-01/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-08-05/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-08-06/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-09-01/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-09-02/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-09-03/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-09-04/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-09-05/pom.xml" />
+        <option value="$PROJECT_DIR$/object-principle-09-06/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" project-jdk-name="23" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
